@@ -1,0 +1,26 @@
+{
+  "name": "codegenius-tea",
+  "version": "1.0.0",
+  "description": "Welcome to CodeGenius! CodeGenius is an advanced code generation platform designed to accelerate software development and improve code quality. Whether you're a seasoned developer, a software architect, or a student learning to code, CodeGenius provides powerful tools and utilities to streamline your workflow and boost productivity. Say goodbye to repetitive coding tasks and hello to efficiency with CodeGenius!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/3senyi33/CodeGenius.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "3senyi33",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }

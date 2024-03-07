@@ -1,0 +1,3 @@
+CodeGenius
+Introduction
+Welcome to CodeGenius! CodeGenius is an advanced code generation platform designed to accelerate software development and improve code quality. Whether you're a seasoned developer, a software architect, or a student learning to code, CodeGenius provides powerful tools and utilities to streamline your workflow and boost productivity. Say goodbye to repetitive coding tasks and hello to efficiency with CodeGenius!
